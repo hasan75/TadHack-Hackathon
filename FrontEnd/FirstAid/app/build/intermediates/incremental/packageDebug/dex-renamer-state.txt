@@ -1,0 +1,7 @@
+#Fri Oct 12 20:25:10 BDT 2018
+base.0=F\:\\FirstAid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6b694ae4b2a502e104d1275610c96c95e9bfcb20
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\FirstAid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_78e06073db393f0f6c7e89319dc04e2f46bc4ce7\\classes.dex
+base.1=F\:\\FirstAid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_78e06073db393f0f6c7e89319dc04e2f46bc4ce7
+file.0=F\:\\FirstAid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6b694ae4b2a502e104d1275610c96c95e9bfcb20\\classes.dex

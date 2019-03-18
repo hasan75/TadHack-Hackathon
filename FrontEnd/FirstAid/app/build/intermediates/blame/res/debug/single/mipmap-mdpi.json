@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\FirstAid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "F:\\FirstAid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\FirstAid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "F:\\FirstAid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]
